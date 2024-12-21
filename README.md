@@ -114,4 +114,4 @@ The integration of the LLM adds intelligence to the classification system by:
 
 ### Compilation
 ```bash
-g++ -std=c++17 -o hierarchical_text_classification p3.cpp
+g++ -std=c++17 -o hierarchical_text_classification textClass.cpp
